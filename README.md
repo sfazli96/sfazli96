@@ -1,13 +1,18 @@
-### Hi, I'm Sameh Fazli and I am a passionate Full-Stack Software Engineer with expertise in: 
+### Hey, I'm Sameh Fazli and I am a passionate Full-Stack Software Engineer with expertis in: 
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
+
+
 
 - 🔭 I’m currently working on building future web or mobile development application using: 
 - 
 - 👯 Open to collaborate on exciting projects that can help me improve my skills.
 - 🌱 I’m currently learning...
 - 📫 How to reach me: 
+![gmail badge](https://img.shields.io/badge/Gmail-sfazli96@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ⚡ Fun fact: 
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 <!--
 **sfazli96/sfazli96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
