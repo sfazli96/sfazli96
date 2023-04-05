@@ -1,7 +1,11 @@
-### Hi, I'm Sameh Fazli and I am a full stack software engineer person that is currently learning different techologies.
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on different types of projects in the future that helps my skills to improve.
-- 🌱 I’m currently learning different technologies such as: 
+### Hi, I'm Sameh Fazli and I am a passionate Full-Stack Software Engineer with expertise in: 
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+
+- 🔭 I’m currently working on building future web or mobile development application using: 
+- 
+- 👯 Open to collaborate on exciting projects that can help me improve my skills.
+- 🌱 I’m currently learning...
 - 📫 How to reach me: 
 - ⚡ Fun fact: 
 <!--
