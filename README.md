@@ -34,7 +34,8 @@ These are some technologies that I have worked with so far:
 I'm currently building future web or mobile development applications using the technologies and frameworks mentioned above.
 
 ### How to reach me 📫
-You can contact me at my email address: [![gmail badge](https://img.shields.io/badge/Gmail-sfazli96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfazli96@gmail.com)
+You can contact me at my email address: 
+- [![gmail badge](https://img.shields.io/badge/Gmail-sfazli96%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfazli96@gmail.com)
 
 ### Fun fact ⚡
 
