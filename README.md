@@ -49,8 +49,8 @@ You can contact me at my email address: [![gmail badge](https://img.shields.io/b
 [![Wellfound](https://img.shields.io/badge/Wellfound-Sameh%20Fazli-blue?style=flat-square&logo=appveyor)](https://wellfound.com/u/sameh-fazli)
 
 ### Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfazli96)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfazli96&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfazli96&show_icons=true&theme=radical)
 
 
 <!--
