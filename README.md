@@ -1,6 +1,5 @@
 ## Hello, I'm Sameh Fazli! 👋
 I'm a passionate Full-Stack Software Engineer with experience in a variety of technologies and frameworks.
-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
 
 ## Tech Stacks 🚀
 These are some technologies that I have worked with so far:
