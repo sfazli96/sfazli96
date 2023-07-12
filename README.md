@@ -40,9 +40,9 @@ You can contact me at my email address:
 ### Fun fact ⚡
 
 ### Featured Projects 🔥
-- [SamMart](https://github.com/sfazli96/SamMart) - A brief description of the project
-- [Pantsy](https://github.com/sfazli96/Pantsy) - A brief description of the project
-- [AirSFRentals](https://github.com/sfazli96/API-project) - A brief description of the project
+- [SamMart](https://github.com/sfazli96/SamMart) - A website where you can buy your own pet prehistoric dinosaur
+- [Pantsy](https://github.com/sfazli96/Pantsy) - A website where you can buy different types of pants
+- [AirSFRentals](https://github.com/sfazli96/API-project) - A rental website where u can rent an apartment similar to airbnb
 
 ### To Reach Me 📫
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sameh-fazli/)](https://www.linkedin.com/in/sameh-fazli/)
