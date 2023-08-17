@@ -1,4 +1,4 @@
-## Hello, I'm Sameh Fazli! 👋
+## Hello, I'm Sameh Fazli 👋
 I'm a passionate Full-Stack Software Engineer with experience in a variety of technologies and frameworks.
 
 ## Tech Stacks 🚀
